@@ -12,4 +12,3 @@ TimesheetRow.java:
 Timesheet.java:
 * Stores multiple TimesheetRows to act as a database
 * Contains functions to create, delete, and manipiulate the rows
-* 
